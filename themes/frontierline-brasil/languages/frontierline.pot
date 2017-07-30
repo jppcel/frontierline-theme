@@ -19,51 +19,51 @@ msgstr ""
 
 #: content-views/content.php:12
 msgid "Categories:"
-msgstr ""
+msgstr "Categorias:"
 
 #: content-views/content.php:38
 msgid "No responses yet"
-msgstr ""
+msgstr "Sem comentários ainda"
 
 #: content-views/content.php:38
 msgid "1 response"
-msgstr ""
+msgstr "1 comentário"
 
 #: content-views/content.php:38
 msgid "% responses"
-msgstr ""
+msgstr "% comentários"
 
 #: content-views/content.php:41
 msgid "Edit"
-msgstr ""
+msgstr "Editar"
 
 #: content-views/content.php:46
 msgid "Continue reading…"
-msgstr ""
+msgstr "Continue lendo..."
 
 #: content-views/content.php:47
 msgid "Pages:"
-msgstr ""
+msgstr "Páginas:"
 
 #: content-views/content.php:52
 msgid "Tags:"
-msgstr ""
+msgstr "Tags:"
 
 #: content-views/content.php:57
 msgid "Browse fast. Browse free."
-msgstr ""
+msgstr "Navegue rápido. Navegue livre."
 
 #: content-views/content.php:58 includes/nav-global.php:11
 msgid "Download Firefox"
-msgstr ""
+msgstr "Baixar Firefox"
 
 #: includes/nav-global.php:9
 msgid "Visit mozilla.org"
-msgstr ""
+msgstr "Acesse mozilla.org"
 
 #: includes/nav-global.php:14
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #: includes/nav-global.php:16
 msgid "Internet Health"
@@ -71,7 +71,7 @@ msgstr ""
 
 #: includes/nav-global.php:17
 msgid "Web Innovations"
-msgstr ""
+msgstr "Inovações Web"
 
 #: includes/nav-global.php:18
 msgid "Give"
@@ -79,11 +79,11 @@ msgstr ""
 
 #: includes/nav-global.php:22
 msgid "Go to the top of the page"
-msgstr ""
+msgstr "Vá para o topo da página"
 
 #: includes/nav-global.php:22
 msgid "Top"
-msgstr ""
+msgstr "Topo"
 
 #. L10n: line break for visual formatting
 #: includes/newsletter-form.php:15
@@ -92,32 +92,32 @@ msgstr ""
 
 #: includes/newsletter-form.php:22
 msgid "Your e-mail address"
-msgstr ""
+msgstr "Seu endereço de email"
 
 #. L10n: 'yourname' is used as the first part of an example e-mail address, as in 'yourname@example.com'
 #: includes/newsletter-form.php:24
 msgid "yourname"
-msgstr ""
+msgstr "seunome"
 
 #: includes/newsletter-form.php:29
 msgid "Country"
-msgstr ""
+msgstr "País"
 
 #: includes/newsletter-form.php:31
 msgid "- select -"
-msgstr ""
+msgstr "- selecione -"
 
 #: includes/newsletter-form.php:308
 msgid "Language"
-msgstr ""
+msgstr "Linguagem"
 
 #: includes/newsletter-form.php:323
 msgid "HTML"
-msgstr ""
+msgstr "HTML"
 
 #: includes/newsletter-form.php:324
 msgid "Text"
-msgstr ""
+msgstr "Texto"
 
 #: includes/newsletter-form.php:330
 #, php-format
@@ -128,15 +128,15 @@ msgstr ""
 
 #: includes/newsletter-form.php:336
 msgid "Sign up now"
-msgstr ""
+msgstr "Inscreva-se agora"
 
 #: includes/newsletter-form.php:338
 msgid "We will only send you Mozilla-related information."
-msgstr ""
+msgstr "Nós iremos apenas enviar a você informações relacionadas a Mozilla."
 
 #: includes/newsletter-form.php:344
 msgid "Thanks!"
-msgstr ""
+msgstr "Obrigado!"
 
 #: includes/newsletter-form.php:346
 msgid ""
@@ -146,4 +146,4 @@ msgstr ""
 
 #: includes/newsletter-form.php:347
 msgid "Please check your inbox or your spam filter for an e-mail from us."
-msgstr ""
+msgstr "Por favor, verifique sua caixa de entrada ou de spam por um email enviado por nós."
