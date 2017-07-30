@@ -19,3 +19,10 @@ Version:        1.0
 #site-info a{
  color: #F89C24;
 }
+
+#site-title{
+  text-align: center;
+}
+#site-description{
+  text-align: center;
+}
