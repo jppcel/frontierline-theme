@@ -20,9 +20,7 @@ Version:        1.0
  color: #F89C24;
 }
 
-#site-title{
+#site-title, #site-description{
   text-align: center;
-}
-#site-description{
-  text-align: center;
+  color: #f8b83e;
 }
