@@ -8,6 +8,33 @@ Version:        1.0
 
 @import url('../frontierline/style.css');
 
+/*
+ * From this line have the modifications to use in Mozilla Brasil website
+ */
+
+ /* === Header === */
+
+ #site-title, #site-description{
+   text-align: center;
+ }
+ #site-title span, #site-description span{
+   background: #f8b83e;
+ }
+
+ @media screen and (min-width: 1000px){
+   .nav-global{
+     height: 5.3em;
+   }
+   .nav-global .logo{
+     height: 85px;
+   }
+
+   .nav-mozilla-menu{
+     line-height: 3.8;
+   }
+ }
+
+
 /* === Footer === */
 
 #site-info .logo a{
@@ -18,11 +45,4 @@ Version:        1.0
 
 #site-info a{
  color: #F89C24;
-}
-
-#site-title, #site-description{
-  text-align: center;
-}
-#site-title span, #site-description span{
-  background: #f8b83e;
 }
