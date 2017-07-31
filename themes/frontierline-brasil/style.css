@@ -28,12 +28,13 @@ Version:        1.0
    .nav-global .logo{
      height: 85px;
    }
-
    .nav-mozilla-menu{
      line-height: 3.8;
    }
  }
-
+..nav-global .logo a{
+  background-image: url("img/mozilla-logo-brasil.svg");
+}
 
 /* === Footer === */
 
