@@ -12,12 +12,7 @@
       <span class="toggle" role="button" aria-controls="nav-mozilla-menu" aria-expanded="false" tabindex="0"><?php _e('Menu', 'frontierline'); ?></span>
       <ul class="nav-mozilla-menu" id="nav-mozilla-menu">
         <?php
-        wp_nav_menu(array(
-             'container' => false,                           // Remove nav container
-             'theme_location' => 'main-nav',        			// Where it's located in the theme
-             'depth' => 5,                                   // Limit the depth of the nav
-             'fallback_cb' => false                         // Fallback function (see below)
-         ));
+        wp_nav_menu(array('theme_location' => 'site_menu_top', 'container' => false, 'menu_class' => 'content', 'fallback_cb' => 'false'));
         ?>
       </ul>
     </div>
