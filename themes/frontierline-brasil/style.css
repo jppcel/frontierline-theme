@@ -41,6 +41,7 @@ Version:        1.0
 #site-info .logo a{
  background-size: 136px 28px;
  width:136px;
+ height: 82px;
  background: transparent url("img/mozilla-logo-brasil-inverted.svg") no-repeat;
 }
 
