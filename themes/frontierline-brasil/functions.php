@@ -1,5 +1,5 @@
 <?php
-if (! function_exists('frontierline_setup')):
+if (! function_exists('frontierlinechild_setup')):
 /**
  * Sets up theme defaults and registers support for various WordPress features.
  *
