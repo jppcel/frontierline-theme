@@ -36,6 +36,13 @@ Version:        1.0
   background-image: url("img/mozilla-logo-brasil.svg");
 }
 
+#nav-local ul li ul{
+  display: none;
+}
+#nav-local ul li:hover ul{
+  display: block;
+}
+
 /* === Footer === */
 
 #site-info .logo a{
