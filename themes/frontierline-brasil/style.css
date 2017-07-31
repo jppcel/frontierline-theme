@@ -41,7 +41,7 @@ Version:        1.0
 #site-info .logo a{
  background-size: 136px 28px;
  width:136px;
- background: transparent url("img/mozilla-wordmark-brasil.svg") no-repeat;
+ background: transparent url("img/mozilla-logo-brasil-inverted.svg") no-repeat;
 }
 
 #site-info a{
